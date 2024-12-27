@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="border">#35566f</color>
+
+    <!-- red -->
+    <color name="activered">#F00</color>
+    <color name="inactivered">#4D0000</color>
+
+    <!-- orange -->
+    <color name="activeorange">#FF8C00</color>
+    <color name="inactiveorange">#4D2600</color>
+
+    <!-- green -->
+    <color name="activegreen">#080</color>
+    <color name="inactivegreen">#030</color>
+</resources>
